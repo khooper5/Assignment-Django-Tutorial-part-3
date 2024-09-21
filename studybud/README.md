@@ -1,0 +1,1 @@
+All of my studybud file that I did for part 3 of the django assignment. I tried to upload the env file that was created i the begining but the files were too large and would not let me upload them, but everything else that I actually coded in is in here.
